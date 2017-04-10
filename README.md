@@ -6,7 +6,7 @@ Codes are not fully explained but I tried to add some explanations on comments.
 I hope it is helpful for your homeworks.
 These are all old works and I add them when I found them on my computer :) that is why there is only two homeworks.
 
-##1. Homework summary for 8puzzle
+## 1. Homework summary for 8puzzle
 
 Write a program to solve the 8-puzzle problem using the following search algorithms;
 
@@ -21,7 +21,7 @@ Test all the algorithms with at least 10 random inputs and calculate both the nu
 
 **The problem.** The *8-puzzle problem* is a puzzle popularized by Sam Loyd in the 1870s. It is played on a 3-by-3 grid with 8 square blocks labeled 1 through 8 and a blank square. Your goal is to rearrange the blocks so that they are in order. You are permitted to slide blocks horizontally or vertically into the blank square.
 
-##2. Homework summary for TicTacToe
+## 2. Homework summary for TicTacToe
 
 Write a game program for tic-tac-toe.
 Tic-tac-toe (or Noughts and crosses, Xs and Os) is a paper-and-pencil
